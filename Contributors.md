@@ -1,5 +1,5 @@
 	# Contributors
-
+-[Teng Ao](https://github.com/OscarnotOskar)
 -[Anurag Chaurasia](https://github.com/Anurag331)
 -[Anuar Hage](https://github.com/anuarhage)
 - Peter Galvan
